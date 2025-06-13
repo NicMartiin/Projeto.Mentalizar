@@ -2,7 +2,8 @@
 
 > Plataforma digital de apoio à saúde mental, desenvolvida como projeto acadêmico para a disciplina de Planejamento em Informática - Universidade UNINOVE.
 
-🔗 **Acesse o sistema:** (https://mentalizar.odoo.com)
+🔗 **Acesse o Sistema:** (https://mentalizar.odoo.com)
+🔗 **Acesse o Video:** (https://youtu.be/IQQOac8JfaM)
 
 ---
 
